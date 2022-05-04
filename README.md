@@ -66,5 +66,3 @@
     <a href="http://www.github.com/PedrHenrick"><img src="https://activity-graph.herokuapp.com/graph?username=PedrHenrick&show_icons=true&theme=radical" alt="GitHub Commits Graph" /></a>
   </div>
 </p>
-
-![snake gif](https://github.com/PedrHenrick/PedrHenrick/blob/output/github-snake-dark.svg#gh-dark-mode-only)
