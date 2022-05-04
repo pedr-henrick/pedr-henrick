@@ -67,4 +67,4 @@
   </div>
 </p>
 
-![snake gif](https://github.com/PedrHenrick/PedrHenrick/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/PedrHenrick/PedrHenrick/blob/output/github-snake-dark.svg#gh-dark-mode-only)
