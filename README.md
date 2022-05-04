@@ -36,7 +36,7 @@
   </h2>
 </div>
 
-<p align="center"><strong>Linguagens, Frameworks e Ferramentas 💻</strong></p>
+<h3 align="center"><strong>Linguagens, Frameworks e Ferramentas 💻</strong></h3>
 <div align="center" style="margin-top: 30px" style="display: inline_block">
   <h2 align="center">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -57,7 +57,7 @@
   </h2>
 </div>
  
-<p align="center"><strong>Estatísticas 📈</strong></p>
+<h3 align="center"><strong>Estatísticas 📈</strong></h3>
 <p align="center">
   <div align="center">
     <a href="http://www.github.com/PedrHenrick"><img src="https://github-readme-stats.vercel.app/api?username=PedrHenrick&show_icons=true&theme=radical" alt="Estatísticas do GitHub de PedrHenrick" /></a>
