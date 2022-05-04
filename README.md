@@ -14,7 +14,7 @@
 </h3>
 
 <div align="center">
-  <img height="250px" align="right" src="./foto1.webp" />
+  <img height="215px" align="right" src="./foto1.webp" />
   <div align="left" style="display: inline_block">
     <h2><strong>Um pouco sobre mim</strong></h2>
     <ul>
