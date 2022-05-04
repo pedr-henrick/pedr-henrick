@@ -11,7 +11,7 @@
 </h3>
 
 <div align="center">
-  <img width="460px" height="250px" align="right" src="./foto1.webp" />
+  <img width="360px" height="210px" align="right" src="./foto1.webp" />
   <div align="left" style="display: inline_block">
     <h2><strong>Um pouco sobre mim</strong></h2>
     <ul>
@@ -61,5 +61,3 @@
     <a href="https://github.com/PedrHenrick" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrhenrick&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1e3a8a&hide_border=true&locale=en&layout=compact" alt="Top Languages" /></a>
   </div>
 </p>
-
-![Snake animation](https://github.com/PedrHenrick/PedrHenrick/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
