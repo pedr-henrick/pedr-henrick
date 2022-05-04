@@ -27,5 +27,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrhenrick&" alt="pedrhenrick" /></p>
 
-![Snake animation](https://github.com/paolofullone/paolofullone/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/PedrHenrick/PedrHenrick/blob/output/github-contribution-grid-snake.svg)
