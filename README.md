@@ -1,30 +1,65 @@
-<h1 align="center">Hello, my name is Pedro Henrick!</h1>
+<div>
+  <img src="https://komarev.com/ghpvc/?username=PedrHenrick" alt="profile views" />
+</div>
+<h1 align="center">< Hello, world! /> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Me chamo Pedro Henrick!</h1>
+<h3 align="center">
+  Bem vindos ao meu repositório!
+  <br> Sou estudante de desenvolvimento web full stack na <a href="https://betrybe.com">Trybe</a> em parceria com a <a href="https://www.xpinc.com/">XP Inc.</a> na especial Turma XP um grupo que tem apoio da Xp Inc! 🚀
+  <br>
+  <a href="https://betrybe.com">Trybe</a> traz assunto e dinâmica com hard-skills e soft-skills, onde aprendemos algo novo todos os dias.
+  Aqui você pode ver alguns dos meus projetos!  
+</h3>
 
-<h3 align="center">I am a full stack web developer student at Trybe in the special "Turma XP". We are a group that has direct support from the Xp Inc!</h3>
-<h3 align="center">Trybe brings subject and dynamics with hard-skills and soft-skills, where we learn something new every day.</h3> 
-<h3 align="center">Here you can see some of my projects!</h3>
+<div align="center">
+  <img width="460px" height="250px" align="right" src="./foto1.webp" />
+  <div align="left" style="display: inline_block">
+    <h2><strong>Um pouco sobre mim</strong></h2>
+    <ul>
+      <li> 🌍 Sou de Maceió | Alagoas!</li>
+      <li> 🧠 Atualmente estou aprendendo <strong>MySQL</strong>, <strong>Docker</strong> e <strong>Node</strong></li>
+      <li> 🤝 Procuro colaborar em <strong>projetos open source</strong> a fim de ajudar a comunidade como um todo!</li>
+      <li> ✉️ Pode contactar-me em <a href="mailto:pedro.mesquita.hc@gmail.com"><strong>pedro.mesquita.hc@gmail.com</strong></a></li>
+      <li> 🧘🏽‍♂️ Fora do código: Sou pai de pet e adoro filmes e séries da cultura nerd</li>
+      <li> 💬 Vamos trocar uma ideia? Me chame para bater um papo no LinkedIn</li>
+    </ul>
+  </div>
+  <h2>
+    <a href="https://www.linkedin.com/in/pedro-henrick/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="mailto:pedro.mesquita.hc@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="pedro.mesquita.hc@gmail.com" /></a>
+    <a href="https://codepen.io/pedrhenrick" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/pedrhenrick" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/19028048/pedromesquita" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18592482/pedro-henrick" height="30" width="40" /></a>
+    <a href="https://codesandbox.io/u/PedrHenrick" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/pedrhenrick" height="30" width="40" /></a>
+  </h2>
+</div>
 
-<hr>
-
-<h3 align="center">Connect with me:</h3>
+<h2 align="center"><strong>Linguagens, Frameworks e Ferramentas 💻</strong></h2>
+<div align="center" style="margin-top: 30px" style="display: inline_block">
+  <h2 align="center">
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+      <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+      <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
+      <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  </h2>
+</div>
+ 
+<h2 align="center"><strong>Estatísticas 📈</strong></h2>
 <p align="center">
-<a href="https://codepen.io/https://codepen.io/pedrhenrick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/pedrhenrick" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pedro-henrick/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-henrick/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18592482/pedro-henrick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18592482/pedro-henrick" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/pedrhenrick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/pedrhenrick" height="30" width="40" /></a>
+  <div align="center">
+    <a href="http://www.github.com/PedrHenrick"><img src="https://github-readme-stats.vercel.app/api?username=PedrHenrick&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de PedrHenrick" /></a>
+    <a href="http://www.github.com/PedrHenrick"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PedrHenrick&stroke=ffffff&background=1e3a8a&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    <a href="https://github.com/PedrHenrick" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrhenrick&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1e3a8a&hide_border=true&locale=en&layout=compact" alt="Top Languages" /></a>
+  </div>
 </p>
 
-<hr>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pedrhenrick&label=Profile%20views&color=0e75b6&style=flat" alt="pedrhenrick" /> </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrhenrick&show_icons=true&locale=en&layout=compact" alt="pedrhenrick" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrhenrick&show_icons=true&locale=en" alt="pedrhenrick" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrhenrick&" alt="pedrhenrick" /></p>
-
-![Snake animation](https://github.com/PedrHenrick/PedrHenrick/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/PedrHenrick/PedrHenrick/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
