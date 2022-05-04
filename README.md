@@ -4,23 +4,26 @@
 <h1 align="center">< Hello, world! /> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Me chamo Pedro Henrick!</h1>
 <h3 align="center">
   Bem vindos ao meu repositório!
-  <br> Sou estudante de desenvolvimento web full stack na <a href="https://betrybe.com">Trybe</a> em parceria com a <a href="https://www.xpinc.com/">XP Inc.</a> na especial Turma XP um grupo que tem apoio da Xp Inc! 🚀
+  <br> Sou estudante de desenvolvimento web full stack na <a href="https://betrybe.com">Trybe</a> na especial Turma XP. Uma turma patrocinada pela <a href="https://www.xpinc.com/">XP Inc</a>, que está nos auxiliando em toda formação! 🚀
   <br>
-  <a href="https://betrybe.com">Trybe</a> traz assunto e dinâmica com hard-skills e soft-skills, onde aprendemos algo novo todos os dias.
-  Aqui você pode ver alguns dos meus projetos!  
+   Atualmente sou formado em desevolvimento front-end, e aqui você irá ver alguns projetos produzidos nessa trajetória!
+  <br>
+  <br>
+  Então? LET'S TO CODE!!!!
 </h3>
 
 <div align="center">
-  <img width="360px" height="210px" align="right" src="./foto1.webp" />
+  <img height="250px" align="right" src="./foto1.webp" />
   <div align="left" style="display: inline_block">
     <h2><strong>Um pouco sobre mim</strong></h2>
     <ul>
       <li> 🌍 Sou de Maceió | Alagoas!</li>
       <li> 🧠 Atualmente estou aprendendo <strong>MySQL</strong>, <strong>Docker</strong> e <strong>Node</strong></li>
-      <li> 🤝 Procuro colaborar em <strong>projetos open source</strong> a fim de ajudar a comunidade como um todo!</li>
-      <li> ✉️ Pode contactar-me em <a href="mailto:pedro.mesquita.hc@gmail.com"><strong>pedro.mesquita.hc@gmail.com</strong></a></li>
-      <li> 🧘🏽‍♂️ Fora do código: Sou pai de pet e adoro filmes e séries da cultura nerd</li>
-      <li> 💬 Vamos trocar uma ideia? Me chame para bater um papo no LinkedIn</li>
+      <li> 🤝 Procuro colaborar em <strong>projetos open source</strong> afim de ajudar toda a comunidade!</li>
+      <li> ✉️ Estou disponivel para contato em <a href="mailto:pedro.mesquita.hc@gmail.com"><strong>pedro.mesquita.hc@gmail.com</strong></a></li>
+      <li> 🧘🏽‍♂️ Fora do código: Sou pai de pet, toco violão e amante da cultura nerd!</li>
+      <li> ❓ Fatos aleatórios: Já fui atleta de judô 🥋 e sou o maior fã de refrigerante de laranja do mundo 🥤</li>
+      <li> 💬 Vamos trocar uma ideia? Me chame para bater um papo no LinkedIn!</li>
     </ul>
   </div>
   <h2>
@@ -32,7 +35,7 @@
   </h2>
 </div>
 
-<h2 align="center"><strong>Linguagens, Frameworks e Ferramentas 💻</strong></h2>
+<p align="center"><strong>Linguagens, Frameworks e Ferramentas 💻</strong></p>
 <div align="center" style="margin-top: 30px" style="display: inline_block">
   <h2 align="center">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -53,7 +56,7 @@
   </h2>
 </div>
  
-<h2 align="center"><strong>Estatísticas 📈</strong></h2>
+<p align="center"><strong>Estatísticas 📈</strong></p>
 <p align="center">
   <div align="center">
     <a href="http://www.github.com/PedrHenrick"><img src="https://github-readme-stats.vercel.app/api?username=PedrHenrick&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de PedrHenrick" /></a>
