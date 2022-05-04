@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">< Hello, world! /> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Me chamo Pedro Henrick!</h1>
 <h3 align="center">
-  Bem vindos ao meu repositório!
+  Bem vindo ao meu repositório!
   <br> Sou estudante de desenvolvimento web full stack na <a href="https://betrybe.com">Trybe</a> na especial Turma XP. Uma turma patrocinada pela <a href="https://www.xpinc.com/">XP Inc</a>, que está nos auxiliando em toda formação! 🚀
   <br>
    Atualmente sou formado em desevolvimento front-end, e aqui você irá ver alguns projetos produzidos nessa trajetória!
