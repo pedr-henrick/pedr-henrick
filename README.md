@@ -30,9 +30,6 @@
   <h2>
     <a href="https://www.linkedin.com/in/pedro-henrick/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:pedro.mesquita.hc@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="pedro.mesquita.hc@gmail.com" /></a>
-    <a href="https://codepen.io/pedrhenrick" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/pedrhenrick" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/19028048/pedromesquita" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18592482/pedro-henrick" height="30" width="40" /></a>
-    <a href="https://codesandbox.io/u/PedrHenrick" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/pedrhenrick" height="30" width="40" /></a>
   </h2>
 </div>
 
