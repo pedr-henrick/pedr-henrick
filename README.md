@@ -1,16 +1,16 @@
 <div>
-  <img src="https://komarev.com/ghpvc/?username=PedrHenrick&logo=github&style=for-the-badge&theme=radical" alt="profile views" />
-  <a href="https://www.github.com/PedrHenrick" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/PedrHenrick?logo=github&style=for-the-badge&theme=radical" /></a>
+<!--   <img src="https://komarev.com/ghpvc/?username=pedr-henrick&logo=github&style=for-the-badge&theme=radical" alt="profile views" /> -->
+<!--   <a href="https://www.github.com/pedr-henrick" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/pedr-henrick?logo=github&style=for-the-badge&theme=radical" /></a> -->
 </div>
 <h1 align="center">< Hello, world! /> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35px" height="35px"> Me chamo Pedro Henrick!</h1>
 <h3 align="center">
   Bem vindo ao meu repositório!
 <!--   <br> Sou estudante de desenvolvimento web full stack na <a href="https://betrybe.com">Trybe</a> na especial Turma XP. Uma turma patrocinada pela <a href="https://www.xpinc.com/">XP Inc</a>, que está nos auxiliando em toda formação! 🚀
   <br>
-   Atualmente sou formado em desevolvimento front-end, e aqui você irá ver alguns projetos produzidos nessa trajetória!
-  <br>
+   Atualmente sou formado em desevolvimento front-end, e aqui você irá ver alguns projetos produzidos nessa trajetória!  
   <br> -->
 <!--   Então?  -->
+  <br>
   LET'S TO CODE!!!!
 </h3>
 
@@ -58,9 +58,9 @@
 <h3 align="center"><strong>Estatísticas 📈</strong></h3>
 <p align="center">
   <div align="center">
-    <a href="http://www.github.com/PedrHenrick"><img src="https://github-readme-stats.vercel.app/api?username=PedrHenrick&show_icons=true&theme=radical" alt="Estatísticas do GitHub de PedrHenrick" /></a>
-    <a href="http://www.github.com/PedrHenrick"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PedrHenrick&show_icons=true&theme=radical" /></a>
-    <a href="https://github.com/PedrHenrick" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrhenrick&show_icons=true&theme=radical&layout=compact" alt="Top Languages" /></a>
-    <a href="http://www.github.com/PedrHenrick"><img src="https://activity-graph.herokuapp.com/graph?username=PedrHenrick&show_icons=true&theme=radical" alt="GitHub Commits Graph" /></a>
+    <a href="http://www.github.com/pedr-henrick"><img src="https://github-readme-stats.vercel.app/api?username=pedr-henrick&show_icons=true&theme=radical" alt="Estatísticas do GitHub de pedr-henrick" /></a>
+    <a href="http://www.github.com/pedr-henrick"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pedr-henrick&show_icons=true&theme=radical" /></a>
+    <a href="https://github.com/pedr-henrick" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedr-henrick&show_icons=true&theme=radical&layout=compact" alt="Top Languages" /></a>
+<!--     <a href="http://www.github.com/pedr-henrick"><img src="https://activity-graph.herokuapp.com/graph?username=pedr-henrick&show_icons=true&theme=radical" alt="GitHub Commits Graph" /></a> -->
   </div>
 </p>
