@@ -2,15 +2,16 @@
   <img src="https://komarev.com/ghpvc/?username=PedrHenrick&logo=github&style=for-the-badge&theme=radical" alt="profile views" />
   <a href="https://www.github.com/PedrHenrick" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/PedrHenrick?logo=github&style=for-the-badge&theme=radical" /></a>
 </div>
-<h1 align="center">< Hello, world! /> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="50px" height="50px"> Me chamo Pedro Henrick!</h1>
+<h1 align="center">< Hello, world! /> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35px" height="35px"> Me chamo Pedro Henrick!</h1>
 <h3 align="center">
   Bem vindo ao meu repositório!
-  <br> Sou estudante de desenvolvimento web full stack na <a href="https://betrybe.com">Trybe</a> na especial Turma XP. Uma turma patrocinada pela <a href="https://www.xpinc.com/">XP Inc</a>, que está nos auxiliando em toda formação! 🚀
+<!--   <br> Sou estudante de desenvolvimento web full stack na <a href="https://betrybe.com">Trybe</a> na especial Turma XP. Uma turma patrocinada pela <a href="https://www.xpinc.com/">XP Inc</a>, que está nos auxiliando em toda formação! 🚀
   <br>
    Atualmente sou formado em desevolvimento front-end, e aqui você irá ver alguns projetos produzidos nessa trajetória!
   <br>
-  <br>
-  Então? LET'S TO CODE!!!!
+  <br> -->
+<!--   Então?  -->
+  LET'S TO CODE!!!!
 </h3>
 
 <div align="center">
@@ -19,7 +20,7 @@
     <h2><strong>Um pouco sobre mim</strong></h2>
     <ul>
       <li> 🌍 Sou de Maceió | Alagoas!</li>
-      <li> 🧠 Atualmente estou aprendendo <strong>MySQL</strong>, <strong>Docker</strong> e <strong>Node</strong></li>
+      <li> 🧠 Atualmente estou aprendendo <strong>C#</strong>, <strong>Gherking</strong> e <strong>Design Patterns</strong></li>
       <li> 🤝 Procuro colaborar em <strong>projetos open source</strong> afim de ajudar toda a comunidade!</li>
       <li> ✉️ Estou disponivel para contato em <a href="mailto:pedro.mesquita.hc@gmail.com"><strong>pedro.mesquita.hc@gmail.com</strong></a></li>
       <li> 🧘🏽‍♂️ Fora do código: Sou pai de pet, toco violão e amante da cultura nerd!</li>
